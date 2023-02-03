@@ -1,0 +1,4 @@
+[24-Jul-2022 16:16:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/ipka9448/public_html/olshop/app/Mail/MyTestMail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/app/Mail/MyTestMail.php on line 10

@@ -1,0 +1,42 @@
+version: '3'
+services:
+  app:
+    build:
+      context: ./
+      dockerfile: Docker/dockerfile/app.Dockerfile
+    image: olshop:1.0
+    container_name: app
+    restart: unless-stopped
+    tty: true
+    env_file: .env
+    depends_on:
+      - cache
+    networks:
+      - laravel-prod
+
+  web_server:
+    build:
+      context: ./
+      dockerfile: Docker/dockerfile/web_server.Dockerfile
+    image: ws_olshop:1.0
+    container_name: web_server
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "8002:80"
+    depends_on:
+      - app
+    networks:
+      - laravel-prod
+
+  cache:
+    image: redis:alpine
+    container_name: cache
+    restart: unless-stopped
+    networks:
+      - laravel-prod
+
+#Docker Networks
+networks:
+  laravel-prod:
+    driver: bridge

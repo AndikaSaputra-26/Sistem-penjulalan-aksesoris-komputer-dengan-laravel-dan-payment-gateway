@@ -1,0 +1,132 @@
+[24-Jul-2022 20:11:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/AboutSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/AboutSeeder.php on line 9
+[24-Jul-2022 20:14:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/CustomerAlamatSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/CustomerAlamatSeeder.php on line 9
+[24-Jul-2022 20:21:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/CustomerSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/CustomerSeeder.php on line 10
+[24-Jul-2022 20:36:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/DatabaseSeeder.php on line 8
+[24-Jul-2022 21:08:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/KategoriSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/KategoriSeeder.php on line 10
+[24-Jul-2022 22:04:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/LocationsSeeder.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/LocationsSeeder.php on line 11
+[25-Jul-2022 19:27:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/DatabaseSeeder.php on line 8
+[25-Jul-2022 19:33:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/KategoriSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/KategoriSeeder.php on line 10
+[25-Jul-2022 19:46:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/LocationsSeeder.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/LocationsSeeder.php on line 11
+[25-Jul-2022 20:12:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/PembelianSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/PembelianSeeder.php on line 9
+[25-Jul-2022 20:41:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/PesanSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/PesanSeeder.php on line 9
+[25-Jul-2022 21:42:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/ProdukSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/ProdukSeeder.php on line 10
+[25-Jul-2022 23:33:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/RoleSeeder.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/RoleSeeder.php on line 11
+[26-Jul-2022 01:01:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/SettingTokoSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/SettingTokoSeeder.php on line 9
+[26-Jul-2022 01:15:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/SupplierSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/SupplierSeeder.php on line 9
+[26-Jul-2022 02:19:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/PembelianSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/PembelianSeeder.php on line 9
+[31-Jul-2022 04:55:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/PesanSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/PesanSeeder.php on line 9
+[31-Jul-2022 04:55:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/UnitSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/UnitSeeder.php on line 10
+[31-Jul-2022 15:27:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/UserTableSeeder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/UserTableSeeder.php on line 12
+[31-Jul-2022 15:58:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/CustomerAlamatSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/CustomerAlamatSeeder.php on line 9
+[01-Aug-2022 14:45:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/SettingTokoSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/SettingTokoSeeder.php on line 9
+[01-Aug-2022 19:59:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/AboutSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/AboutSeeder.php on line 9
+[01-Aug-2022 20:06:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/PesanSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/PesanSeeder.php on line 9
+[01-Aug-2022 20:20:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/ProdukSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/ProdukSeeder.php on line 10
+[01-Aug-2022 20:29:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/RoleSeeder.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/RoleSeeder.php on line 11
+[01-Aug-2022 20:33:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/UnitSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/UnitSeeder.php on line 10
+[12-Aug-2022 22:08:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/AboutSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/AboutSeeder.php on line 9
+[12-Aug-2022 22:14:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/CustomerSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/CustomerSeeder.php on line 10
+[12-Aug-2022 22:26:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/ProdukSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/ProdukSeeder.php on line 10
+[12-Aug-2022 22:51:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/RoleSeeder.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/RoleSeeder.php on line 11
+[13-Aug-2022 05:24:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/SupplierSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/SupplierSeeder.php on line 9
+[13-Aug-2022 07:02:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/UnitSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/UnitSeeder.php on line 10
+[13-Aug-2022 10:03:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/ipka9448/public_html/olshop/database/seeders/UserTableSeeder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/seeders/UserTableSeeder.php on line 12

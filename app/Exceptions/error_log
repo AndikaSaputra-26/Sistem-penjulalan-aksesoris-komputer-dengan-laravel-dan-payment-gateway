@@ -1,0 +1,4 @@
+[24-Jul-2022 16:12:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/ipka9448/public_html/olshop/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/app/Exceptions/Handler.php on line 8

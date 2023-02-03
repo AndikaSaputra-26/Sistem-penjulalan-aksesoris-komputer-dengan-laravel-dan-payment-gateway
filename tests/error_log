@@ -1,0 +1,8 @@
+[30-Jul-2022 07:13:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/ipka9448/public_html/olshop/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/tests/TestCase.php on line 7
+[31-Jul-2022 18:34:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/ipka9448/public_html/olshop/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/tests/TestCase.php on line 7

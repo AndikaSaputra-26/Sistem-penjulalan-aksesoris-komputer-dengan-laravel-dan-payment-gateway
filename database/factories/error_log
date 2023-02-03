@@ -1,0 +1,56 @@
+[20-Jul-2022 11:07:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/KategoriFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/KategoriFactory.php on line 8
+[20-Jul-2022 11:10:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/KategoriFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/KategoriFactory.php on line 8
+[20-Jul-2022 13:36:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/PesanFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/PesanFactory.php on line 10
+[20-Jul-2022 13:42:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/ProdukFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/ProdukFactory.php on line 10
+[21-Jul-2022 08:25:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/PesanFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/PesanFactory.php on line 10
+[21-Jul-2022 10:48:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/ProdukFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/ProdukFactory.php on line 10
+[21-Jul-2022 11:03:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/SettingTokoFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/SettingTokoFactory.php on line 10
+[22-Jul-2022 00:33:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/SettingTokoFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/SettingTokoFactory.php on line 10
+[22-Jul-2022 00:35:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/SupplierFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/SupplierFactory.php on line 10
+[22-Jul-2022 00:39:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/SupplierFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/SupplierFactory.php on line 10
+[22-Jul-2022 00:41:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/UnitFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/UnitFactory.php on line 12
+[22-Jul-2022 00:43:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/UnitFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/UnitFactory.php on line 12
+[22-Jul-2022 00:46:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/UserFactory.php on line 11
+[23-Jul-2022 06:01:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/ipka9448/public_html/olshop/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/database/factories/UserFactory.php on line 11

@@ -1,0 +1,4 @@
+[18-Jul-2022 13:48:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/ipka9448/public_html/olshop/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/bootstrap/app.php on line 14

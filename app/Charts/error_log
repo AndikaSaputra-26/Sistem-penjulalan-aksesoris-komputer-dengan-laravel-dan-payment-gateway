@@ -1,0 +1,8 @@
+[01-Aug-2022 14:44:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ConsoleTVs\Charts\Classes\Chartjs\Chart" not found in /home/ipka9448/public_html/olshop/app/Charts/PembelianChart.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/app/Charts/PembelianChart.php on line 7
+[01-Aug-2022 14:44:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ConsoleTVs\Charts\Classes\Chartjs\Chart" not found in /home/ipka9448/public_html/olshop/app/Charts/PenjualanChart.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/app/Charts/PenjualanChart.php on line 7

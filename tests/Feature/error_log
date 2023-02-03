@@ -1,0 +1,4 @@
+[31-Jul-2022 08:08:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/ipka9448/public_html/olshop/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/tests/Feature/ExampleTest.php on line 8

@@ -1,0 +1,36 @@
+[30-Jul-2022 09:52:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ipka9448/public_html/olshop/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/routes/api.php on line 7
+[30-Jul-2022 09:56:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ipka9448/public_html/olshop/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/routes/api.php on line 7
+[30-Jul-2022 10:04:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/ipka9448/public_html/olshop/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/routes/channels.php on line 16
+[30-Jul-2022 10:21:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/ipka9448/public_html/olshop/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/routes/channels.php on line 16
+[30-Jul-2022 10:48:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/ipka9448/public_html/olshop/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/routes/console.php on line 17
+[30-Jul-2022 23:46:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/ipka9448/public_html/olshop/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/routes/console.php on line 17
+[30-Jul-2022 23:50:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ipka9448/public_html/olshop/routes/web.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/routes/web.php on line 41
+[30-Jul-2022 23:58:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ipka9448/public_html/olshop/routes/web.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/routes/web.php on line 41
+[31-Jul-2022 18:59:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "Diglactic\Breadcrumbs\Breadcrumbs" not found in /home/ipka9448/public_html/olshop/routes/breadcrumbs.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ipka9448/public_html/olshop/routes/breadcrumbs.php on line 7
